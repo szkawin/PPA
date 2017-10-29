@@ -8,7 +8,7 @@ public class Controller {
     public TextField textfield;
 
     public void handleclick(ActionEvent actionEvent) {
-        textfield.setText("Kliknięto w przycisk!");
+        textfield.setText("Naciśnięto przycisk!");
     }
 }
 
